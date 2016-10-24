@@ -1,2 +1,5 @@
 # hello-world
-Le premier repository créé
+
+Salut tout le monde.
+
+Je m'appelle Ricardo Pereira et je suis software engineer.
